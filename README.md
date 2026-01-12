@@ -8,7 +8,7 @@ This is the place where I want to share my coding experience :rofl:
 - 🔭 &nbsp;I’m graduated from University of Urbana-Champiagn majoring in Master's of Computer Science :wink:
 - 🌱 &nbsp;I’ve learned Database management system(DBMS), Machine Learning(ML), and Artificial Intelligence(AI).
 - 💬 &nbsp;Ask me about anything related to Javascript/Python/Java/C++/SQL/C or Angular/React/Express/AWS
-- 📫 &nbsp;How to reach me: [LinkedIn](www.linkedin.com/in/jiayi079) or <a rel="me" href="jiayigu4@illinois.edu">Email</a>
+- 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/jiayi079) or <a rel="me" href="mailto:jiayigu4@illinois.edu">Email</a>
 - 👨‍💻 &nbsp;Read more about my projects at [GitHub](https://github.com/Jiayi079)
 - ⚡ &nbsp;Fun fact about me is that I :heart: :dog:s
 
